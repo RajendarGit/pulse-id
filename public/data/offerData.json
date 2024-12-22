@@ -1,0 +1,919 @@
+{
+    "offers": [
+      {
+        "id": 626,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "Get 50% Cashback when you spend $50",
+        "salesChannel": "ALL",
+        "validFrom": "2023-09-07T00:00:00.000",
+        "validFromUTC": "2023-09-06T18:30:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2023-09-08T02:51:48.000Z",
+        "description": "<ul><li>Get 50% Cashback when you spend $50 or more</li><li>Eligible for new customers who haven't made a purchase in the last 12 months</li><li>Minimum purchase amount $50</li><li>Maximum cashback amount $40</li></ul>",
+        "timezone": "Asia/Colombo",
+        "termsAndConditions": "<ol type=“1“><li>Cashback will not be earned on PayPal, Shopify or other 3rd party platform purchases.</li><li>An eligible cash back credit purchase must comply with the relevant offer criteria. Any cash back credit may be reversed if your qualifying purchase is refunded or cancelled.</li><li>Only transactions made on enrolled cards will be qualified. Any unenrolled, invalid or expired cards will not be able to qualified for the Offer.</li><li>Please refer to the offer for detailed qualifying criteria.</li><li>Cashback/statement credits will be subject to currency conversion fees.</li><li>Only transactions processed via Visa will qualify for the Promotion. Transactions routed via domestic or other schemes will not qualify.</li><li>Card must be in good standing during offer period to be eligible. Cards reported as lost, stolen, fraudulent will not qualify.</li><li>This is a segmented offer and you will need to qualify for the segment qualifying criteria in order to qualify for the order.</li><li>In the event of any query or dispute relating to the Promotion, please contact your respective card issuer within 30 days of your transaction.</li><li>For any queries related to the offer in Taiwan, please email: notifications@pulseid.com. For all other markets, please reach out to your issuer customer support team.</li><li>The Offer is applicable during the Promotion Period.</li><li>Visa and Merchant reserve the right to change or modify the promotion at any time without prior notice.</li><li>In case of any dispute, the decision of Visa or Merchant shall be final and binding.</li><li>In case of any discrepancy between the Chinese and English versions of the terms and conditions herein, the English version shall prevail.</li><li>Please refer to the overall Terms and Conditions for participating in this program.</li></ol>",
+        "images": [
+          "https://ctlstg-cdn.pulseid.com/rklo1tAW0X/604f52b7-c998-4579-8812-5167c2a64109.png"
+        ],
+        "maximumRewardValue": 40,
+        "minimumTransactions": null,
+        "minimumSpend": 50,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 50,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 180,
+          "name": "HelloFresh",
+          "image": "https://ctlstg-cdn.pulseid.com/4zw77DJjPO/929c6859-a985-4749-8ac6-f4db15d9878c.png",
+          "category": {
+            "name": "Retailers"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "en",
+        "defaultLanguageLabel": "English",
+        "defaultLanguageNative": "English",
+        "language": "en",
+        "remarks": null,
+        "trackingUrl": "https://stg-catalyst-external-distributor-api.pulseid.com/affiliate-redirect-url?offId=626&affId=7&pubId=43",
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": null,
+        "tncText": null
+      },
+      {
+        "id": 628,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "Get $5 Cashback when you spend $50",
+        "salesChannel": "E-COMMERCE",
+        "validFrom": "2023-09-07T00:00:00.000",
+        "validFromUTC": "2023-09-06T18:30:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2023-09-08T02:52:15.000Z",
+        "description": "<p>Get $5 Cashback when you spend $50</p>",
+        "timezone": "Asia/Colombo",
+        "termsAndConditions": "<ol type=“1“><li>Cashback will not be earned on PayPal, Shopify or other 3rd party platform purchases.</li><li>An eligible cash back credit purchase must comply with the relevant offer criteria. Any cash back credit may be reversed if your qualifying purchase is refunded or cancelled.</li><li>Only transactions made on enrolled cards will be qualified. Any unenrolled, invalid or expired cards will not be able to qualified for the Offer.</li><li>Please refer to the offer for detailed qualifying criteria.</li><li>Cashback/statement credits will be subject to currency conversion fees.</li><li>Only transactions processed via Visa will qualify for the Promotion. Transactions routed via domestic or other schemes will not qualify.</li><li>Card must be in good standing during offer period to be eligible. Cards reported as lost, stolen, fraudulent will not qualify.</li><li>This is a segmented offer and you will need to qualify for the segment qualifying criteria in order to qualify for the order.</li><li>In the event of any query or dispute relating to the Promotion, please contact your respective card issuer within 30 days of your transaction.</li><li>For any queries related to the offer in Taiwan, please email: notifications@pulseid.com. For all other markets, please reach out to your issuer customer support team.</li><li>The Offer is applicable during the Promotion Period.</li><li>Visa and Merchant reserve the right to change or modify the promotion at any time without prior notice.</li><li>In case of any dispute, the decision of Visa or Merchant shall be final and binding.</li><li>In case of any discrepancy between the Chinese and English versions of the terms and conditions herein, the English version shall prevail.</li><li>Please refer to the overall Terms and Conditions for participating in this program.</li></ol>",
+        "images": [
+          "https://ctlstg-cdn.pulseid.com/JER2s24FGy/5d492b58-ff69-4cdb-a362-22ba67000ac4.jpg",
+          "https://ctlstg-cdn.pulseid.com/mBkC66dxMR/a7a20973-1e01-4243-a509-ce84d20a84e1.jpg"
+        ],
+        "maximumRewardValue": null,
+        "minimumTransactions": null,
+        "minimumSpend": 50,
+        "rewardType": "FIXED",
+        "rewardValue": 5,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 177,
+          "name": "Wendy's",
+          "image": "https://ctlstg-cdn.pulseid.com/hgQgH0R7LJ/f12602cb-51a9-49a2-971c-0157ee0a7a70.jpeg",
+          "category": {
+            "name": "Restaurants"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "en",
+        "defaultLanguageLabel": "English",
+        "defaultLanguageNative": "English",
+        "language": "en",
+        "remarks": null,
+        "trackingUrl": "https://stg-catalyst-external-distributor-api.pulseid.com/affiliate-redirect-url?offId=628&affId=7&pubId=43",
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": null,
+        "tncText": null
+      },
+      {
+        "id": 693,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "50 米ドル以上のお買い物で 15% キャッシュバック",
+        "salesChannel": "ALL",
+        "validFrom": "2024-05-16T00:00:00.000",
+        "validFromUTC": "2024-05-15T18:30:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-05-16T09:30:05.000Z",
+        "description": "<p>50 米ドル以上のお買い物で 15% キャッシュバック</p>",
+        "timezone": "Asia/Colombo",
+        "termsAndConditions": "<p>50 米ドル以上のお買い物で 15% キャッシュバック</p>",
+        "images": [
+          "https://ctlstg-cdn.pulseid.com/9JrmVqZder/fd8b43fd-bcd3-42a0-8524-3ebb9dd0436b.png"
+        ],
+        "maximumRewardValue": 50,
+        "minimumTransactions": null,
+        "minimumSpend": 50,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 15,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 206,
+          "name": "Takashimaya",
+          "image": "https://ctlstg-cdn.pulseid.com/lrc66Fwqlq/b0759e21-550e-4261-8864-aa52168ca141.png",
+          "category": {
+            "name": "Department Stores"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "ja",
+        "defaultLanguageLabel": "Japanese",
+        "defaultLanguageNative": "日本語",
+        "language": "ja",
+        "remarks": null,
+        "trackingUrl": null,
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": null,
+        "tncText": null
+      },
+      {
+        "id": 694,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "2 回目の購入で 7.7% のキャッシュバックを獲得",
+        "salesChannel": "ALL",
+        "validFrom": "2024-05-16T00:00:00.000",
+        "validFromUTC": "2024-05-15T18:30:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-05-16T09:30:06.000Z",
+        "description": "<p>2 回目の購入で 7.7% のキャッシュバックを獲得</p>",
+        "timezone": "Asia/Colombo",
+        "termsAndConditions": "<p>2 回目の購入で 7.7% のキャッシュバックを獲得</p>",
+        "images": [
+          "https://ctlstg-cdn.pulseid.com/RuSA66LLUM/efbc1c5f-3cf3-40ae-be73-b0e2222729ab.png"
+        ],
+        "maximumRewardValue": 15,
+        "minimumTransactions": 2,
+        "minimumSpend": null,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 7.7,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": false,
+        "rewardFrequency": "EVERY",
+        "customerRedemptionLimit": null,
+        "repeatFrequency": "NEVER",
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 207,
+          "name": "MUJI",
+          "image": "https://ctlstg-cdn.pulseid.com/Xcg0AnsHIi/5eae0ac9-1f23-4e63-906d-726815902473.png",
+          "category": {
+            "name": "Retailers"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "ja",
+        "defaultLanguageLabel": "Japanese",
+        "defaultLanguageNative": "日本語",
+        "language": "ja",
+        "remarks": null,
+        "trackingUrl": null,
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": null,
+        "tncText": null
+      },
+      {
+        "id": 698,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "12% キャッシュバックをゲット",
+        "salesChannel": "ALL",
+        "validFrom": "2024-05-16T00:00:00.000",
+        "validFromUTC": "2024-05-15T15:00:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-12-06T04:12:35.000Z",
+        "description": "<p>12% キャッシュバックをゲット</p>",
+        "timezone": "Asia/Tokyo",
+        "termsAndConditions": "<p>12% キャッシュバックをゲット</p>",
+        "images": [
+          "https://ctlstg-cdn.pulseid.com/yo0MbKkNyC/90c12716-cb12-4289-897a-4ac58eb50899.png"
+        ],
+        "maximumRewardValue": null,
+        "minimumTransactions": null,
+        "minimumSpend": null,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 12,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 207,
+          "name": "MUJI",
+          "image": "https://ctlstg-cdn.pulseid.com/Xcg0AnsHIi/5eae0ac9-1f23-4e63-906d-726815902473.png",
+          "category": {
+            "name": "Retailers"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "SGD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "ja",
+        "defaultLanguageLabel": "Japanese",
+        "defaultLanguageNative": "日本語",
+        "language": "ja",
+        "remarks": null,
+        "trackingUrl": null,
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": null,
+        "tncText": null
+      },
+      {
+        "id": 705,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "Get $20 Cashback on your 2nd purchase",
+        "salesChannel": "E-COMMERCE",
+        "validFrom": "2024-05-16T00:00:00.000",
+        "validFromUTC": "2024-05-15T18:30:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-07-22T03:59:50.000Z",
+        "description": "<p>Don Quijote is now rewarding returning customers with a $20 Cashback for every $100 spent. Hurry now and earn while you shop today at Don Quijote! T&amp;C Apply</p>",
+        "timezone": "Asia/Colombo",
+        "termsAndConditions": "<ul><li>This offer is only applicable to Don Quijote</li><li>Available in selected stores</li><li>This offer is valid per transaction while stock lasts</li><li>Please contact store staff for more details</li><li>Photos are for reference only</li><li>In case of any dispute, the decisions Don Quijote reserves shall be final and conclusive.</li></ul>",
+        "images": [
+          "https://ctlstg-cdn.pulseid.com/KT0SCy1j2i/4029b814-727d-4853-8aba-d3808438a4c1.png"
+        ],
+        "maximumRewardValue": null,
+        "minimumTransactions": 2,
+        "minimumSpend": 100,
+        "rewardType": "FIXED",
+        "rewardValue": 20,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": false,
+        "rewardFrequency": "EVERY",
+        "customerRedemptionLimit": null,
+        "repeatFrequency": "NEVER",
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 181,
+          "name": "Don Quijote",
+          "image": "https://ctlstg-cdn.pulseid.com/FFABq6VJVa/92999e50-dbf1-4a3c-bd7a-8ae766bb2c85.png",
+          "category": {
+            "name": "Retailers"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "en",
+        "defaultLanguageLabel": "English",
+        "defaultLanguageNative": "English",
+        "language": "en",
+        "remarks": null,
+        "trackingUrl": null,
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": null,
+        "tncText": null
+      },
+      {
+        "id": 706,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "15,000円以上お買い物で15％キャッシュバック",
+        "salesChannel": "ALL",
+        "validFrom": "2024-05-16T00:00:00.000",
+        "validFromUTC": "2024-05-15T15:00:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-08-23T11:50:30.000Z",
+        "description": "<p>15,000円以上お買い物で15％キャッシュバック</p>",
+        "timezone": "Asia/Tokyo",
+        "termsAndConditions": "<p>15,000円以上お買い物で15％キャッシュバック</p>",
+        "images": [
+          "https://ctlstg-cdn.pulseid.com/Atp0xjgsRS/bb59759d-ce84-463b-a0ba-1a271601cdd6.png"
+        ],
+        "maximumRewardValue": 15000,
+        "minimumTransactions": null,
+        "minimumSpend": 15000,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 15,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 206,
+          "name": "Takashimaya",
+          "image": "https://ctlstg-cdn.pulseid.com/lrc66Fwqlq/b0759e21-550e-4261-8864-aa52168ca141.png",
+          "category": {
+            "name": "Department Stores"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "JPY",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "ja",
+        "defaultLanguageLabel": "Japanese",
+        "defaultLanguageNative": "日本語",
+        "language": "ja",
+        "remarks": null,
+        "trackingUrl": null,
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": null,
+        "tncText": null
+      },
+      {
+        "id": 716,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "Get 10% Cashback",
+        "salesChannel": "ALL",
+        "validFrom": "2024-06-25T00:00:00.000",
+        "validFromUTC": "2024-06-24T15:00:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-06-25T02:39:34.000Z",
+        "description": "<p>Get 10% Cashback</p>",
+        "timezone": "Asia/Tokyo",
+        "termsAndConditions": "<p>Cashback offers for this store are based on customer base:</p><ul><li>New Customer: 5.00%</li><li>Existing Customer: 1.00%</li><li>Cashback is capped at $7.00 for New Customer and $0.80 for Existing cutomer.</li><li>New Customer refers to a customer who has never made any purchases from Fairprice ON.</li><li>This cashback offer is applicable on Desktop and Mobile web purchases.</li><li>Cashback is NOT applicable for the following:<ul><li>Gift card purchases.</li><li>Free gifts.</li><li>Vouchers.</li><li>Purchases with deals and promotions.</li></ul></li><li>Cashback calculation is not inclusive of sales tax and delivery charges.</li><li>M1 will make all reasonable endevours to secure the cashback within 120 days of the relevant transaction.</li><li>For more information please refer to the M1 cashback terms and conditions.</li></ul><p>Applicability:</p><ul><li>Cashback is NOT applicable for the following:<ul><li>Gift card purchases.</li><li>Free gifts.</li><li>Vouchers.</li><li>Purchases with deals and promotions.</li></ul></li></ul><p>secure the cashback within 120 days</p><p>For more information please refer to the M1 cashback terms and conditions.</p>",
+        "images": [],
+        "maximumRewardValue": 50,
+        "minimumTransactions": null,
+        "minimumSpend": null,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 10,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 210,
+          "name": "Daiso",
+          "image": "https://ctlstg-cdn.pulseid.com/jq12zSl5aO/b333102c-243f-415e-a4d2-6f2f40306383.png",
+          "category": {
+            "name": "Home Improvement/Furniture"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "en",
+        "defaultLanguageLabel": "English",
+        "defaultLanguageNative": "English",
+        "language": "en",
+        "remarks": null,
+        "trackingUrl": null,
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": null,
+        "tncText": null
+      },
+      {
+        "id": 740,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "Get 10% Cashback",
+        "salesChannel": "ALL",
+        "validFrom": "2024-09-16T00:00:00.000",
+        "validFromUTC": "2024-09-15T15:00:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-09-16T07:06:49.000Z",
+        "description": "<p>PIN code test</p>",
+        "timezone": "Asia/Tokyo",
+        "termsAndConditions": "<p>Get 10% Cashback</p>",
+        "images": [
+          "https://ctlstg-cdn.pulseid.com/lSmo8OT9ah/4bde7989-12d0-4881-9eaa-fa6fabeea5bd.png"
+        ],
+        "maximumRewardValue": 50,
+        "minimumTransactions": null,
+        "minimumSpend": null,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 10,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 174,
+          "name": "Family Mart",
+          "image": "https://ctlstg-cdn.pulseid.com/gPp0B9ETVs/dabb55e1-4114-4e78-b427-5aa4722c731e.png",
+          "category": {
+            "name": "Supermarkets"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "en",
+        "defaultLanguageLabel": "English",
+        "defaultLanguageNative": "English",
+        "language": "en",
+        "remarks": null,
+        "trackingUrl": "https://stg-catalyst-external-distributor-api.pulseid.com/affiliate-redirect-url?offId=740&affId=13&pubId=43",
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": "",
+        "tncText": ""
+      },
+      {
+        "id": 741,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "Shopee Test (with Optimise link)",
+        "salesChannel": "ALL",
+        "validFrom": "2024-09-16T00:00:00.000",
+        "validFromUTC": "2024-09-15T16:00:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-09-16T12:56:24.000Z",
+        "description": "<p>Shopee Test (with Optimise link)</p>",
+        "timezone": "Asia/Singapore",
+        "termsAndConditions": "<p>Shopee Test (with Optimise link)</p>",
+        "images": [],
+        "maximumRewardValue": null,
+        "minimumTransactions": null,
+        "minimumSpend": null,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 10,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 172,
+          "name": "Prada",
+          "image": "https://ctlstg-cdn.pulseid.com/6ucYFcdJoi/bd4e61b5-da78-4bc0-81d8-18ecb4ee1627.jpeg",
+          "category": {
+            "name": "Fashion & Retail"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "en",
+        "defaultLanguageLabel": "English",
+        "defaultLanguageNative": "English",
+        "language": "en",
+        "remarks": null,
+        "trackingUrl": "https://stg-catalyst-external-distributor-api.pulseid.com/affiliate-redirect-url?offId=741&affId=7&pubId=43",
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": "",
+        "tncText": ""
+      },
+      {
+        "id": 742,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "Shopee Test (with Partnerize link)",
+        "salesChannel": "ALL",
+        "validFrom": "2024-09-16T00:00:00.000",
+        "validFromUTC": "2024-09-15T16:00:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-09-16T12:56:24.000Z",
+        "description": "<p>Shopee Test (with Partnerize link)</p>",
+        "timezone": "Asia/Singapore",
+        "termsAndConditions": "<p>Shopee Test (with Partnerize link)</p>",
+        "images": [],
+        "maximumRewardValue": null,
+        "minimumTransactions": null,
+        "minimumSpend": null,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 10,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 178,
+          "name": "Shein",
+          "image": "https://ctlstg-cdn.pulseid.com/EfJwsupLKt/db0efc00-00bd-47f3-959f-d82298359603.png",
+          "category": {
+            "name": "Fashion & Retail"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "en",
+        "defaultLanguageLabel": "English",
+        "defaultLanguageNative": "English",
+        "language": "en",
+        "remarks": null,
+        "trackingUrl": "https://stg-catalyst-external-distributor-api.pulseid.com/affiliate-redirect-url?offId=742&affId=8&pubId=43",
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": "",
+        "tncText": ""
+      },
+      {
+        "id": 743,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "Shopee Test (with Shopee link)",
+        "salesChannel": "ALL",
+        "validFrom": "2024-09-16T00:00:00.000",
+        "validFromUTC": "2024-09-15T16:00:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-09-16T12:56:24.000Z",
+        "description": "<p>Shopee Test (with Shopee link)</p>",
+        "timezone": "Asia/Singapore",
+        "termsAndConditions": "<p>Shopee Test (with Shopee link)</p>",
+        "images": [],
+        "maximumRewardValue": null,
+        "minimumTransactions": null,
+        "minimumSpend": null,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 10,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 174,
+          "name": "Family Mart",
+          "image": "https://ctlstg-cdn.pulseid.com/gPp0B9ETVs/dabb55e1-4114-4e78-b427-5aa4722c731e.png",
+          "category": {
+            "name": "Supermarkets"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "en",
+        "defaultLanguageLabel": "English",
+        "defaultLanguageNative": "English",
+        "language": "en",
+        "remarks": null,
+        "trackingUrl": "https://stg-catalyst-external-distributor-api.pulseid.com/affiliate-redirect-url?offId=743&affId=14&pubId=43",
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": "",
+        "tncText": ""
+      },
+      {
+        "id": 744,
+        "eligibleDays": [
+          "EVERYDAY"
+        ],
+        "title": "Shopee Test (with Shopee link)",
+        "salesChannel": "ALL",
+        "validFrom": "2024-09-16T00:00:00.000",
+        "validFromUTC": "2024-09-15T16:00:00.000Z",
+        "validTo": null,
+        "validToUTC": null,
+        "published": "2024-09-16T12:56:24.000Z",
+        "description": "<p>Shopee Test (with Shopee link)</p>",
+        "timezone": "Asia/Singapore",
+        "termsAndConditions": "<p>Shopee Test (with Shopee link)</p>",
+        "images": [],
+        "maximumRewardValue": null,
+        "minimumTransactions": null,
+        "minimumSpend": null,
+        "rewardType": "PERCENTAGE",
+        "rewardValue": 10,
+        "rewardPointsPerAmount": null,
+        "rewardEveryTransaction": true,
+        "rewardFrequency": null,
+        "customerRedemptionLimit": null,
+        "repeatFrequency": null,
+        "budget": null,
+        "balanceBudget": null,
+        "redemptionLimit": null,
+        "redemptionsRemaining": null,
+        "eligibleSegments": [
+          "NEW",
+          "LAPSED",
+          "LOYAL"
+        ],
+        "cardProductTypes": [
+          "ALL"
+        ],
+        "merchant": {
+          "id": 181,
+          "name": "Don Quijote",
+          "image": "https://ctlstg-cdn.pulseid.com/FFABq6VJVa/92999e50-dbf1-4a3c-bd7a-8ae766bb2c85.png",
+          "category": {
+            "name": "Retailers"
+          },
+          "website": null,
+          "returnPeriod": null
+        },
+        "tags": [],
+        "activationRequired": false,
+        "currency": "USD",
+        "fundingModel": "PRE",
+        "defaultLanguageCode": "en",
+        "defaultLanguageLabel": "English",
+        "defaultLanguageNative": "English",
+        "language": "en",
+        "remarks": null,
+        "trackingUrl": "https://stg-catalyst-external-distributor-api.pulseid.com/affiliate-redirect-url?offId=744&affId=14&pubId=43",
+        "couponCode": null,
+        "countries": [
+          "ALL"
+        ],
+        "countryNames": [
+          "All"
+        ],
+        "totalRedemptions": null,
+        "tncURL": "",
+        "tncText": ""
+      }
+    ],
+    "totalCount": 13,
+    "pageCount": 1,
+    "limit": 20,
+    "page": 0
+  }
