@@ -1,4 +1,0 @@
-.header {
-    @apply h-[107px] rounded-bl-[1.5rem] rounded-br-[1.5rem] flex items-center justify-between;
-    background: linear-gradient(to bottom, #FF980066, #FF98002F);
-}
