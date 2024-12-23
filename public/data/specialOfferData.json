@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "images": "/assets/images/offer.svg",
+      "title": "Get Special Offers",
+      "description": "Up to 9% discount",
+      "btnText": "View More",
+      "spanText": "SK-11"
+    },
+    {
+      "id": 2,
+      "images": "/assets/images/offer.svg",
+      "title": "Exclusive Deals",
+      "description": "Save up to 15%",
+      "btnText": "Shop Now",
+      "spanText": "SK-12"
+    },
+    {
+      "id": 3,
+      "images": "/assets/images/offer.svg",
+      "title": "Limited Time Offer",
+      "description": "Flat 20% off",
+      "btnText": "Discover",
+      "spanText": "SK-13"
+    }
+  ]

@@ -1,5 +1,5 @@
-import React from 'react'
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
 const StyledContainer = styled.div`
   width: min(768px, 100%);
@@ -8,10 +8,8 @@ const StyledContainer = styled.div`
   padding-right: 1rem;
 `;
 
-const Container = ({children}) => {
-  return (
-    <StyledContainer>{children}</StyledContainer>
-  )
-}
+const Container = ({ children }) => {
+  return <StyledContainer>{children}</StyledContainer>;
+};
 
-export default Container
+export default Container;

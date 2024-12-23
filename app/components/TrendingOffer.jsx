@@ -27,7 +27,11 @@ const SliderContainer = styled.div`
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, .4) 0%, rgba(0, 0, 0, 1) 100%);
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.4) 0%,
+      rgba(0, 0, 0, 1) 100%
+    );
     z-index: 1;
     border-radius: 1.8rem;
   }
@@ -39,7 +43,7 @@ const SliderContainer = styled.div`
   }
   div.top-section {
     position: absolute;
-    top: 2rem;
+    top: 1.5rem;
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -51,54 +55,60 @@ const SliderContainer = styled.div`
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
   }
   div.bottom-section {
     position: absolute;
-    bottom: 2rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    bottom: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
     display: grid;
-    gap: .2rem;
+    gap: 0.2rem;
     width: 100%;
     z-index: 1;
     h4 {
-        color: var(--white);
-        font-size: 1rem;
+      color: var(--white);
+      font-size: 1rem;
     }
     p {
-        color: var(--white);
-        font-size: .6rem;
-        margin-bottom: 1rem;
+      color: var(--white);
+      font-size: 0.6rem;
+      margin-bottom: 1rem;
     }
     button {
-        background-color: #FF98007A;
-        border-radius: 5rem;
-        padding: .75rem;
-        width: 100%;
-        font-size: 1rem;
-        font-weight: 500;
-        color: var(--white);
-        border: none;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        @media (max-width: 376px) {
-            text-indent: 5rem;
-        }
+      background-color: #ff98007a;
+      border-radius: 5rem;
+      padding: 0.75rem;
+      width: 100%;
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--white);
+      border: none;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
     }
   }
 `;
 
+const ArrowImage = styled(Image)`
+  position: absolute;
+  right: 0.3rem;
+  top: 0.25rem;
+  width: 40px;
+  height: 40px;
+`;
+
 const StyledSlider = styled(Slider)`
-margin-bottom: 1.2rem;
+  margin-bottom: 1.2rem;
   .slick-dots {
     li {
       button {
         &:before {
           color: var(--secondary);
-          font-size: .5rem;
+          font-size: 0.5rem;
         }
       }
 
@@ -129,7 +139,7 @@ const TrendingOffer = () => {
 
   const settings = {
     dots: true,
-    infinite: true,
+    infinite: false,
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
@@ -145,14 +155,12 @@ const TrendingOffer = () => {
       <Title title="Trending Offer" />
       <StyledSlider {...settings}>
         {limitedItems.map((item) => (
-          <Link key={item.id} href={item.merchant.website || "#"} passHref>
+          <Link key={item.id} href="#">
             <SliderContainer>
               <div className="top-section">
                 <div className="top-section--inner">
                   <Logo />
-                  <Link href="#" passHref>
-                    <Image src={closeIcon} alt="close" width={48} height={48} />
-                  </Link>
+                  <Image src={closeIcon} alt="close" width={48} height={48} />
                 </div>
               </div>
               <StyledImage
@@ -164,7 +172,15 @@ const TrendingOffer = () => {
               <div className="bottom-section">
                 <h4>{item.merchant.name}</h4>
                 <p>{item.maximumRewardValue} reviews</p>
-                <button>See more<Image src={arrowIcon} alt="close" width={36} height={36} /></button>
+                <button>
+                  See more
+                  <ArrowImage
+                    src={arrowIcon}
+                    alt="close"
+                    width={36}
+                    height={36}
+                  />
+                </button>
               </div>
             </SliderContainer>
           </Link>

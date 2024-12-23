@@ -46,7 +46,8 @@ const Header = () => {
   if (loading) return <Loading />;
   if (error) return <div>Error: {error}</div>;
 
-  const selectedUser = users.length > 0 ? users.find((user) => user.id === 1) : null;
+  const selectedUser =
+    users.length > 0 ? users.find((user) => user.id === 1) : null;
 
   return (
     <StyledHeader>
@@ -54,7 +55,10 @@ const Header = () => {
         <StyledHeaderContent>
           <Logo />
           {selectedUser ? (
-            <ProfileTag uname={selectedUser.name} avatar={selectedUser.avatar} />
+            <ProfileTag
+              uname={selectedUser.name}
+              avatar={selectedUser.avatar}
+            />
           ) : (
             <p>No user found</p>
           )}

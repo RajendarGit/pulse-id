@@ -1,5 +1,4 @@
 "use client";
-
 import styled from "styled-components";
 import Link from "next/link";
 import Container from "./Container";
@@ -23,15 +22,22 @@ const StyledImage = styled(Image)`
 const SliderContainer = styled.div`
   padding: 1rem;
   text-align: center;
-  padding-left: 2.5rem;
   display: grid;
   align-items: center;
+  justify-content: center;
   p {
     font-size: 0.75rem;
     font-weight: 500;
     color: #343434;
     text-align: center;
-    margin-top: .5rem;
+    margin-top: 0.5rem;
+  }
+`;
+
+const SliderSection = styled.div`
+  @media (min-width: 768px) {
+    width: 768px;
+    margin: 0 auto;
   }
 `;
 
@@ -55,7 +61,7 @@ const DiscoverCitySlider = () => {
 
   const settings = {
     dots: false,
-    infinite: true,
+    infinite: false,
     speed: 500,
     slidesToShow: 4.35,
     slidesToScroll: 1,
@@ -66,21 +72,23 @@ const DiscoverCitySlider = () => {
       <Container>
         <Title title="Discover Your City" link="/discover" />
       </Container>
-      <Slider {...settings}>
-        {items.map((item) => (
-          <Link key={item.id} href={item.merchant.website || "#"} passHref>
-            <SliderContainer>
-              <StyledImage
-                src={item.merchant.image}
-                alt={item.merchant.name}
-                width={100}
-                height={100}
-              />
-              <p>{item.merchant.name.slice(0,5)}...</p>
-            </SliderContainer>
-          </Link>
-        ))}
-      </Slider>
+      <SliderSection>
+        <Slider {...settings}>
+          {items.map((item) => (
+            <Link key={item.id} href={"city-offer-landing"} passHref>
+              <SliderContainer>
+                <StyledImage
+                  src={item.merchant.image}
+                  alt={item.merchant.name}
+                  width={100}
+                  height={100}
+                />
+                <p>{item.merchant.name.slice(0, 5)}...</p>
+              </SliderContainer>
+            </Link>
+          ))}
+        </Slider>
+      </SliderSection>
     </>
   );
 };

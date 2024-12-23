@@ -8,7 +8,7 @@ const StyledProfileTag = styled.div`
   gap: 1rem;
 `;
 
- const StyledProfileContainer = styled.div`
+const StyledProfileContainer = styled.div`
   h5 {
     font-size: 0.75;
     font-weight: 500;
