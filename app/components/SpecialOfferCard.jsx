@@ -57,7 +57,7 @@ const StyledCard = styled.div`
   }
 `;
 
-const SpecialOfferCard = ({ type, title, description, spanText, btnText }) => {
+const SpecialOfferCard = ({ type = 1, title, description, spanText = '', btnText }) => {
   return (
     <>
       <StyledCard>
